@@ -23,4 +23,4 @@ snap install --classic certbot
 sudo ln -s /snap/bin/certbot /usr/bin/certbot
 
 #Solicita el certificado y configura el servidor
-certbot --apache -m $email --agree-tos --no-eff-email -d $domain
+certbot --apache -m sgyt_fbjho22@kygur.com --agree-tos --no-eff-email -d practicawordpress.hopto.org
