@@ -12,7 +12,7 @@ una vez dentro del NO-IP configuramos la IP del frontend
 
 Nos vamos al Backend y desplegamos el script de backend.sh para dejarlo listo y una vez lo tengamos desplegado
 
-Y nos conectamos a la maquina del frontend y comenzamos la instalación de la pila LAMP y el despliegue de wordpress.
+Y nos conectamos a la maquina del frontend y comenzamos la instalación de la fronted.sh y el despliegue de wordpress.
 
 cuando tengamos el despliegue de la pila LAMP y el despliegue de wordpress instalamos y configuramos el cliente ACME lanzamos nuestros scripts (config_https.sh) para añadirle la seguridad
 
