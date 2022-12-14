@@ -14,6 +14,6 @@ Nos vamos al Backend y desplegamos el script de backend.sh para dejarlo listo y 
 
 Y nos conectamos a la maquina del frontend y comenzamos la instalación de la fronted.sh y el despliegue de wordpress.
 
-cuando tengamos el despliegue de la pila LAMP y el despliegue de wordpress instalamos y configuramos el cliente ACME lanzamos nuestros scripts (config_https.sh) para añadirle la seguridad
+cuando tengamos el despliegue de la pila LAMP y el despliegue de wordpress instalamos(wp_wordpress_raiz.sh) y configuramos el cliente ACME lanzamos nuestros scripts (config_https.sh) para añadirle la seguridad
 
 ya cuando nos metamos con el nombre de dominio nos saldra la instalación de wordpress y una vez dentro configuramos las URL amigables y dejar todo condifurado correctamente
